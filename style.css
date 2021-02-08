@@ -1,0 +1,24 @@
+table, td, th {
+  border: 1px solid black;
+  border-collapse: collapse;
+  max-width: 1500px;
+  overflow: hidden;
+}
+.container {
+  padding: 20px;
+  background-color: grey;
+  border: 20px solid red;
+  border-style: dotted;
+  max-width: 500px;
+}
+img {
+  width: 500px;
+  height: 300px;
+  padding: 50px;
+  border: 10px solid aquamarine;
+  border-style: groove;
+}
+table {
+  border: 5px solid red;
+  border-style: double;
+}
