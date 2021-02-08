@@ -1,8 +1,13 @@
-table, td, th {
+th {
   border: 1px solid black;
   border-collapse: collapse;
   max-width: 1500px;
   overflow: hidden;
+}
+
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
 }
 
 .container {
