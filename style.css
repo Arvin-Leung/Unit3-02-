@@ -4,6 +4,7 @@ table, td, th {
   max-width: 1500px;
   overflow: hidden;
 }
+
 .container {
   padding: 20px;
   background-color: grey;
@@ -11,6 +12,7 @@ table, td, th {
   border-style: dotted;
   max-width: 500px;
 }
+
 img {
   width: 500px;
   height: 300px;
@@ -18,6 +20,7 @@ img {
   border: 10px solid aquamarine;
   border-style: groove;
 }
+
 table {
   border: 5px solid red;
   border-style: double;
